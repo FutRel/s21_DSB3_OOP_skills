@@ -1,0 +1,21 @@
+2025-12-22 04:18:08 Initializing: data.csv
+2025-12-22 04:18:08 File: data.csv, has_header: True
+2025-12-22 04:18:08 Read 11 records
+2025-12-22 04:18:08 11 records
+2025-12-22 04:18:08 Generating 3
+2025-12-22 04:18:08 Generated 3
+2025-12-22 04:18:08 Generating report
+2025-12-22 04:18:08 11 records
+2025-12-22 04:18:08 Calculating heads and tails
+2025-12-22 04:18:08 heads=5, tails=6
+2025-12-22 04:18:08 Calculating fractions heads=5, tails=6
+2025-12-22 04:18:08 Fractions calculated: head_fraction=45.45%, tail_fraction=54.55%
+2025-12-22 04:18:08 Report generated successfully
+2025-12-22 04:18:08 Saving: report.txt
+2025-12-22 04:18:08 Success: report.txt
+2025-12-22 04:18:08 Send: Success
+2025-12-22 04:18:08 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-22 04:18:08 https://api.telegram.org:443 "POST /bot7981138668:AAHOl8aY4tasSf5lQI0b6xyf7u_6JN2iOkw/sendMessage HTTP/1.1" 200 202
+2025-12-22 04:18:08 Success
+2025-12-22 04:18:08 Message: Success
+2025-12-22 04:18:08 Report created and Telegram notification sended
